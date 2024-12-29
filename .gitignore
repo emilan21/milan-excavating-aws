@@ -1,2 +1,4 @@
 namecheap*
 .terraform*
+csr.pem
+private.key

@@ -15,7 +15,7 @@ terraform {
 # Change the profile
 provider "aws" {
   region  = "us-east-1"
-  profile = "Developer-518835924951"
+  profile = "Developer-585008089082"
 }
 
 # Configure the archive Provider
